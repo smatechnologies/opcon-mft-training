@@ -1,5 +1,46 @@
 module.exports = {
   mySidebar: [
     'index',
+    'overview',
+    {
+      type: 'category',
+      label: 'MFT Agent',
+      collapsed: true,
+      items: [
+        'mft_agent/overview',
+        'mft_agent/mft_terminology',
+        'mft_agent/agent_configuration',
+        'mft_agent/exercise1',
+        'mft_agent/path_endpoints',
+        'mft_agent/site_endpoints',
+        'mft_agent/exercise2',
+        'mft_agent/mft_job_type',
+        'mft_agent/exercise3',
+        'mft_agent/exercise4',
+        'mft_agent/exercise5',
+        'mft_agent/renaming',
+        'mft_agent/exercise6',
+        'mft_agent/exercise7',
+        'mft_agent/compression',
+        'mft_agent/exercise8',
+        'mft_agent/exercise9',
+        'mft_agent/encryption',
+        'mft_agent/encryptionkey',
+        'mft_agent/exercise10',
+        'mft_agent/exercise11',
+        'mft_agent/exercise12',
+        'mft_agent/reverse_order',
+        'mft_agent/exercise13',
+        'mft_agent/exercise14',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'MFT Server',
+      collapsed: true,  
+      items: [
+       'mft_server/administration',
+      ]
+    },
   ],
 };
