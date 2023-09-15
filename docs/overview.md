@@ -3,7 +3,7 @@ sidebar_label: 'Overview'
 ---
 # Overview
 
-*   The **MFT Agent** is two solutions delivered in one component:
+*   The **MFT Agent** consists of two solutions delivered in one component:
     *   MFT Agent
     *	MFT Server
 
