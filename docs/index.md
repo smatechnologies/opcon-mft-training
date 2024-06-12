@@ -1,6 +1,6 @@
 ---
 slug: '/'
-sidebar_label: 'MFT Agent and Server Training'
+sidebar_label: 'OpCon MFT Training'
 hide_title: 'false'
 ---
 
